@@ -32,4 +32,10 @@ Did as expected and returned true or false if the number was odd or not.
 
 ### Multiply
 
+console.log(multiply(2, 3)) => 6
+console.log(multiply(13, -7)) => -91
+console.log(multiply(3, 88)) => 264
+
+Did as expected and returned the value of the two arguments multiplied together.
+
 ### Divide
