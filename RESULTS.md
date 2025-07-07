@@ -39,3 +39,9 @@ console.log(multiply(3, 88)) => 264
 Did as expected and returned the value of the two arguments multiplied together.
 
 ### Divide
+
+console.log(divide(16, 4)) => 4
+console.log(divide(13, -7)) => -1.8571428571428572
+console.log(divide(88, 3)) => 29.333333333333332
+
+Did as expected and returned the value of the first input number divided by the second, divisor number.

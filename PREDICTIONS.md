@@ -20,4 +20,4 @@ Will return the value of the two input number multiplied.
 
 ### Divide
 
-Will return the value of the input number divided by the input divsor.
+Will return the value of the input number divided by the input divisor.
